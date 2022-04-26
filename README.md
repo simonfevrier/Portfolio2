@@ -1,5 +1,5 @@
 # Portfolio2
-Lab 6 Contributions
+Lab 6 Contributions in labs/lab4 directory
 - autofocus username
 - sign up
 - Register button
