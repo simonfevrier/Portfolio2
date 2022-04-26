@@ -1,4 +1,8 @@
 # Portfolio2
+
+https://github.com/simonfevrier/Portfolio2.git
+https://simonfevrier.github.io/Portfolio2/
+
 Lab 6 Contributions in labs/lab6 directory
 - autofocus username
 - sign up
@@ -7,5 +11,3 @@ Lab 6 Contributions in labs/lab6 directory
 - Confirm password
 - Passwords Don't match
 - Welcome Screen
-
-https://simonfevrier.github.io/Portfolio2/
