@@ -6,5 +6,6 @@ export default function MenuItem({ itemId, itemPrice, itemName, ItemDescription 
             <p>{ItemDescription}</p>
             <button>Add to Cart</button>
         </div>
+    
     );
 }
